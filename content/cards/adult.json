@@ -1,0 +1,362 @@
+[
+  {
+    "id": "dating-001",
+    "sideA": "Name 3 red flags on a first date",
+    "sideB": "Name 3 green flags on a first date",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 1,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-002",
+    "sideA": "Name 3 pickup lines that never work",
+    "sideB": "Name 3 compliments that sound creepy",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 2,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-003",
+    "sideA": "Name 3 places for a first date",
+    "sideB": "Name 3 places to avoid on a first date",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 3,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-004",
+    "sideA": "Name 3 reasons you'd swipe left",
+    "sideB": "Name 3 reasons you'd swipe right",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 4,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-005",
+    "sideA": "Name 3 things that kill romance",
+    "sideB": "Name 3 things that spark romance",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 5,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-006",
+    "sideA": "Name 3 dating app bios you've seen",
+    "sideB": "Name 3 dating app red flags",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 1,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-007",
+    "sideA": "Name 3 things you'd never tell a date",
+    "sideB": "Name 3 things you overshare",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 2,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-008",
+    "sideA": "Name 3 exes you'd avoid",
+    "sideB": "Name 3 qualities in a partner",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 3,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-009",
+    "sideA": "Name 3 things you'd do for love",
+    "sideB": "Name 3 things you'd never do for love",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 4,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "dating-010",
+    "sideA": "Name 3 relationship dealbreakers",
+    "sideB": "Name 3 relationship green flags",
+    "category": "dating",
+    "rating": "adult",
+    "difficulty": 5,
+    "tags": [
+      "dating"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-001",
+    "sideA": "Name 3 drinks you'd order at a bar",
+    "sideB": "Name 3 excuses to leave a party early",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 1,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-002",
+    "sideA": "Name 3 things you'd do after midnight",
+    "sideB": "Name 3 things you'd never do sober",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 2,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-003",
+    "sideA": "Name 3 bar games you'd dominate",
+    "sideB": "Name 3 things you've lost at a party",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 3,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-004",
+    "sideA": "Name 3 hangover cures that don't work",
+    "sideB": "Name 3 party themes",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 4,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-005",
+    "sideA": "Name 3 things you'd blame on alcohol",
+    "sideB": "Name 3 things you'd never blame on alcohol",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 5,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-006",
+    "sideA": "Name 3 party snacks",
+    "sideB": "Name 3 party playlists",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 1,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-007",
+    "sideA": "Name 3 things you'd find at a house party",
+    "sideB": "Name 3 things you'd find at a club",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 2,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-008",
+    "sideA": "Name 3 drinking games",
+    "sideB": "Name 3 party fouls",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 3,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-009",
+    "sideA": "Name 3 things you'd do when someone else is paying",
+    "sideB": "Name 3 things you'd never order",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 4,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "party-010",
+    "sideA": "Name 3 ways to start a conversation at a party",
+    "sideB": "Name 3 ways to end one",
+    "category": "party",
+    "rating": "adult",
+    "difficulty": 5,
+    "tags": [
+      "party"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-001",
+    "sideA": "Name 3 lies you've told your boss",
+    "sideB": "Name 3 lies you've told your parents",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 1,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-002",
+    "sideA": "Name 3 guilty pleasures after 30",
+    "sideB": "Name 3 things you'd never tell your partner",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 2,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-003",
+    "sideA": "Name 3 purchases you'd hide",
+    "sideB": "Name 3 excuses you've used to cancel plans",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 3,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-004",
+    "sideA": "Name 3 things you've pretended to like for someone",
+    "sideB": "Name 3 things you've faked",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 4,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-005",
+    "sideA": "Name 3 people you'd never invite to your wedding",
+    "sideB": "Name 3 people you'd invite to everything",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 5,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-006",
+    "sideA": "Name 3 things you've done in a bathroom you shouldn't",
+    "sideB": "Name 3 things you've done at work you shouldn't",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 1,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-007",
+    "sideA": "Name 3 lies on your resume",
+    "sideB": "Name 3 secrets you'd take to the grave",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 2,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-008",
+    "sideA": "Name 3 things you'd do differently",
+    "sideB": "Name 3 things you have no regrets about",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 3,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-009",
+    "sideA": "Name 3 things you've googled at work",
+    "sideB": "Name 3 things you've deleted from your phone",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 4,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "adults_only-010",
+    "sideA": "Name 3 habits you'd never admit",
+    "sideB": "Name 3 opinions you'd never share at dinner",
+    "category": "adults_only",
+    "rating": "adult",
+    "difficulty": 5,
+    "tags": [
+      "adults_only"
+    ],
+    "enabled": true
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "spicy-001",
+    "sideA": "Name 3 things that kill the mood",
+    "sideB": "Name 3 turn-ons you're embarrassed to admit",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 1,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-002",
+    "sideA": "Name 3 places you'd kiss someone",
+    "sideB": "Name 3 pickup lines that backfired",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 2,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-003",
+    "sideA": "Name 3 things that sound romantic but aren't",
+    "sideB": "Name 3 things that sound weird but work",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 3,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-004",
+    "sideA": "Name 3 songs for a romantic playlist",
+    "sideB": "Name 3 songs that ruin the moment",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 4,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-005",
+    "sideA": "Name 3 compliments that went too far",
+    "sideB": "Name 3 things you'd whisper",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 5,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-006",
+    "sideA": "Name 3 reasons to leave a date",
+    "sideB": "Name 3 reasons to stay",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 1,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-007",
+    "sideA": "Name 3 things that are overrated in dating",
+    "sideB": "Name 3 things that are underrated",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 2,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-008",
+    "sideA": "Name 3 flirting mistakes",
+    "sideB": "Name 3 flirting wins",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 3,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-009",
+    "sideA": "Name 3 things you'd never post about your relationship",
+    "sideB": "Name 3 things you overshare about it",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 4,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "spicy-010",
+    "sideA": "Name 3 things that make you blush",
+    "sideB": "Name 3 things that make you cringe",
+    "category": "spicy",
+    "rating": "spicy",
+    "difficulty": 5,
+    "tags": [
+      "spicy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-001",
+    "sideA": "Name 3 things you'd do for a million dollars",
+    "sideB": "Name 3 things you wouldn't do for any amount",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 1,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-002",
+    "sideA": "Name 3 rules you'd break if nobody knew",
+    "sideB": "Name 3 dares you'd actually accept",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 2,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-003",
+    "sideA": "Name 3 pranks that went too far",
+    "sideB": "Name 3 bets you'd never make again",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 3,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-004",
+    "sideA": "Name 3 things on your bucket list",
+    "sideB": "Name 3 things you're too scared to try",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 4,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-005",
+    "sideA": "Name 3 things you'd do on a dare",
+    "sideB": "Name 3 things you'd never do on a dare",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 5,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-006",
+    "sideA": "Name 3 chaos moves at a party",
+    "sideB": "Name 3 ways to get kicked out",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 1,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-007",
+    "sideA": "Name 3 things you've done on impulse",
+    "sideB": "Name 3 things you've regretted immediately",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 2,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-008",
+    "sideA": "Name 3 wild stories you'd tell",
+    "sideB": "Name 3 wild stories you'd never tell",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 3,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-009",
+    "sideA": "Name 3 things that seemed like a good idea",
+    "sideB": "Name 3 things that definitely weren't",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 4,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "crazy-010",
+    "sideA": "Name 3 risks worth taking",
+    "sideB": "Name 3 risks never worth taking",
+    "category": "crazy",
+    "rating": "spicy",
+    "difficulty": 5,
+    "tags": [
+      "crazy"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-001",
+    "sideA": "Name 3 things that sound dirty but aren't",
+    "sideB": "Name 3 words you shouldn't say during a toast",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 1,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-002",
+    "sideA": "Name 3 bedroom mood killers",
+    "sideB": "Name 3 things you'd blame on the alcohol",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 2,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-003",
+    "sideA": "Name 3 things that are awkward to explain",
+    "sideB": "Name 3 things that are awkward to witness",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 3,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-004",
+    "sideA": "Name 3 habits that drive people crazy",
+    "sideB": "Name 3 habits you won't admit you have",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 4,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-005",
+    "sideA": "Name 3 things you'd never google at work",
+    "sideB": "Name 3 things you've accidentally sent to the wrong person",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 5,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-006",
+    "sideA": "Name 3 things that are funnier after midnight",
+    "sideB": "Name 3 things that are worse after midnight",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 1,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-007",
+    "sideA": "Name 3 things you'd never admit out loud",
+    "sideB": "Name 3 things everyone thinks but won't say",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 2,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-008",
+    "sideA": "Name 3 party topics that go too far",
+    "sideB": "Name 3 party topics that always land",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 3,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-009",
+    "sideA": "Name 3 things you'd delete if someone checked your phone",
+    "sideB": "Name 3 things you'd proudly show",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 4,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "nsfw_adjacent-010",
+    "sideA": "Name 3 things that are fine in private",
+    "sideB": "Name 3 things that are never fine in public",
+    "category": "nsfw_adjacent",
+    "rating": "spicy",
+    "difficulty": 5,
+    "tags": [
+      "nsfw_adjacent"
+    ],
+    "enabled": true
+  }
+]

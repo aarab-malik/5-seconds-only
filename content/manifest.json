@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "totalCards": 1330,
+  "files": {
+    "family": {
+      "count": 927
+    },
+    "teen": {
+      "count": 343
+    },
+    "adult": {
+      "count": 30
+    },
+    "spicy": {
+      "count": 30
+    }
+  }
+}

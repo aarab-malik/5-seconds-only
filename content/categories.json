@@ -1,0 +1,22 @@
+[
+  { "id": "animals", "name": "Animals & Nature", "defaultRating": "family" },
+  { "id": "food", "name": "Food & Drink", "defaultRating": "family" },
+  { "id": "sports", "name": "Sports & Games", "defaultRating": "family" },
+  { "id": "geography", "name": "Geography", "defaultRating": "family" },
+  { "id": "holidays", "name": "Holidays", "defaultRating": "family" },
+  { "id": "household", "name": "Home & Life", "defaultRating": "family" },
+  { "id": "school_work", "name": "School & Work", "defaultRating": "family" },
+  { "id": "random", "name": "Random", "defaultRating": "family" },
+  { "id": "movies_tv", "name": "Movies & TV", "defaultRating": "teen" },
+  { "id": "music", "name": "Music", "defaultRating": "teen" },
+  { "id": "science", "name": "Science & Tech", "defaultRating": "teen" },
+  { "id": "pop_culture", "name": "Pop Culture", "defaultRating": "teen" },
+  { "id": "would_you_rather", "name": "Would You Rather", "defaultRating": "teen" },
+  { "id": "embarrassing", "name": "Embarrassing", "defaultRating": "teen" },
+  { "id": "dating", "name": "Dating", "defaultRating": "adult" },
+  { "id": "party", "name": "Party", "defaultRating": "adult" },
+  { "id": "adults_only", "name": "Adults Only", "defaultRating": "adult" },
+  { "id": "spicy", "name": "Spicy", "defaultRating": "spicy" },
+  { "id": "crazy", "name": "Crazy", "defaultRating": "spicy" },
+  { "id": "nsfw_adjacent", "name": "After Dark", "defaultRating": "spicy" }
+]

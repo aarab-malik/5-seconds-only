@@ -1,0 +1,4381 @@
+[
+  {
+    "id": "movies_tv-001",
+    "sideA": "Name 3 Disney villains",
+    "sideB": "Name 3 superhero movies",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-002",
+    "sideA": "Name 3 horror movies",
+    "sideB": "Name 3 comedy movies",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-003",
+    "sideA": "Name 3 TV shows about doctors",
+    "sideB": "Name 3 reality TV shows",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-004",
+    "sideA": "Name 3 Star Wars characters",
+    "sideB": "Name 3 Marvel characters",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-005",
+    "sideA": "Name 3 animated movies",
+    "sideB": "Name 3 movie franchises",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-006",
+    "sideA": "Name 3 actors named Chris",
+    "sideB": "Name 3 actresses named Jennifer",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-007",
+    "sideA": "Name 3 movies based on books",
+    "sideB": "Name 3 movie sequels",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-008",
+    "sideA": "Name 3 streaming services",
+    "sideB": "Name 3 movie genres",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-009",
+    "sideA": "Name 3 sitcoms",
+    "sideB": "Name 3 crime dramas",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-010",
+    "sideA": "Name 3 movie snacks",
+    "sideB": "Name 3 things you yell at the screen",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-011",
+    "sideA": "Name 3 cartoon characters",
+    "sideB": "Name 3 video game adaptations",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-012",
+    "sideA": "Name 3 movie plot twists",
+    "sideB": "Name 3 movie quotes everyone knows",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-013",
+    "sideA": "Name 3 binge-worthy shows",
+    "sideB": "Name 3 shows everyone has an opinion on",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-014",
+    "sideA": "Name 3 movie directors",
+    "sideB": "Name 3 Oscar-winning films",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-015",
+    "sideA": "Name 3 things that ruin a movie",
+    "sideB": "Name 3 things that make a movie great",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "movies_tv"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-001",
+    "sideA": "Name 3 musical instruments",
+    "sideB": "Name 3 music genres",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-002",
+    "sideA": "Name 3 famous singers",
+    "sideB": "Name 3 boy bands",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-003",
+    "sideA": "Name 3 classic rock bands",
+    "sideB": "Name 3 pop stars",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-004",
+    "sideA": "Name 3 songs for a road trip",
+    "sideB": "Name 3 songs for a party",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-005",
+    "sideA": "Name 3 instruments with strings",
+    "sideB": "Name 3 percussion instruments",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-006",
+    "sideA": "Name 3 Queen songs",
+    "sideB": "Name 3 holiday songs",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-007",
+    "sideA": "Name 3 songs you know all the words to",
+    "sideB": "Name 3 songs you skip",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-008",
+    "sideA": "Name 3 music festivals",
+    "sideB": "Name 3 concert venues",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-009",
+    "sideA": "Name 3 one-hit wonders",
+    "sideB": "Name 3 albums everyone owns",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-010",
+    "sideA": "Name 3 songs you'd sing in the shower",
+    "sideB": "Name 3 songs that get stuck in your head",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-011",
+    "sideA": "Name 3 rappers",
+    "sideB": "Name 3 country singers",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-012",
+    "sideA": "Name 3 things at a concert",
+    "sideB": "Name 3 things musicians do on stage",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-013",
+    "sideA": "Name 3 guilty pleasure songs",
+    "sideB": "Name 3 songs from your childhood",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-014",
+    "sideA": "Name 3 music apps",
+    "sideB": "Name 3 things you need to be a DJ",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-015",
+    "sideA": "Name 3 songs that make you dance",
+    "sideB": "Name 3 songs that make you cry",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "music"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-001",
+    "sideA": "Name 3 planets",
+    "sideB": "Name 3 elements on the periodic table",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-002",
+    "sideA": "Name 3 things that are magnetic",
+    "sideB": "Name 3 sources of energy",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-003",
+    "sideA": "Name 3 social media apps",
+    "sideB": "Name 3 tech companies",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-004",
+    "sideA": "Name 3 bones in the body",
+    "sideB": "Name 3 organs",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-005",
+    "sideA": "Name 3 weather phenomena",
+    "sideB": "Name 3 natural disasters",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-006",
+    "sideA": "Name 3 inventions",
+    "sideB": "Name 3 scientists",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-007",
+    "sideA": "Name 3 things in space",
+    "sideB": "Name 3 types of rocks",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-008",
+    "sideA": "Name 3 chemical elements",
+    "sideB": "Name 3 types of clouds",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-009",
+    "sideA": "Name 3 things you measure",
+    "sideB": "Name 3 units of measurement",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-010",
+    "sideA": "Name 3 things that use electricity",
+    "sideB": "Name 3 renewable resources",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-011",
+    "sideA": "Name 3 programming languages",
+    "sideB": "Name 3 phone brands",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-012",
+    "sideA": "Name 3 things in a lab",
+    "sideB": "Name 3 things astronauts need",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-013",
+    "sideA": "Name 3 diseases",
+    "sideB": "Name 3 vitamins",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-014",
+    "sideA": "Name 3 things that evolve",
+    "sideB": "Name 3 extinct animals",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "science-015",
+    "sideA": "Name 3 things that float",
+    "sideB": "Name 3 things that sink",
+    "category": "science",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "science"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-001",
+    "sideA": "Name 3 TikTok trends",
+    "sideB": "Name 3 meme formats",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-002",
+    "sideA": "Name 3 celebrity couples",
+    "sideB": "Name 3 celebrity scandals",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-003",
+    "sideA": "Name 3 reality show contestants",
+    "sideB": "Name 3 influencers",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-004",
+    "sideA": "Name 3 fashion trends",
+    "sideB": "Name 3 slang words",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-005",
+    "sideA": "Name 3 viral videos",
+    "sideB": "Name 3 internet challenges",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-006",
+    "sideA": "Name 3 things that were cool in the 90s",
+    "sideB": "Name 3 things that are cool now",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-007",
+    "sideA": "Name 3 things people collect",
+    "sideB": "Name 3 things people argue about online",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-008",
+    "sideA": "Name 3 podcast topics",
+    "sideB": "Name 3 YouTube channels",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-009",
+    "sideA": "Name 3 things that went viral",
+    "sideB": "Name 3 things that aged poorly",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-010",
+    "sideA": "Name 3 red carpet moments",
+    "sideB": "Name 3 award shows",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-011",
+    "sideA": "Name 3 things Gen Z says",
+    "sideB": "Name 3 things boomers say",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-012",
+    "sideA": "Name 3 celebrity feuds",
+    "sideB": "Name 3 celebrity comebacks",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-013",
+    "sideA": "Name 3 things people stan",
+    "sideB": "Name 3 things people cancel",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-014",
+    "sideA": "Name 3 fashion brands",
+    "sideB": "Name 3 sneaker brands",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "pop_culture-015",
+    "sideA": "Name 3 things that trend on Twitter",
+    "sideB": "Name 3 things that trend on Instagram",
+    "category": "pop_culture",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "pop_culture"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-001",
+    "sideA": "Name 3 things you'd rather do on a Monday",
+    "sideB": "Name 3 places you'd never vacation",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-002",
+    "sideA": "Name 3 foods you'd eat for $1,000",
+    "sideB": "Name 3 foods you'd never eat for any amount",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-003",
+    "sideA": "Name 3 superpowers you'd want",
+    "sideB": "Name 3 superpowers you'd avoid",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-004",
+    "sideA": "Name 3 things you'd do if you were invisible",
+    "sideB": "Name 3 things you'd do if you were rich",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-005",
+    "sideA": "Name 3 people you'd want as roommates",
+    "sideB": "Name 3 people you'd never room with",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-006",
+    "sideA": "Name 3 jobs you'd quit immediately",
+    "sideB": "Name 3 jobs you'd love to have",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-007",
+    "sideA": "Name 3 things you'd bring to a desert island",
+    "sideB": "Name 3 things you'd leave behind",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-008",
+    "sideA": "Name 3 ways to spend a million dollars",
+    "sideB": "Name 3 ways to waste money",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-009",
+    "sideA": "Name 3 things you'd do with extra time",
+    "sideB": "Name 3 things you'd do with no time left",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "would_you_rather-010",
+    "sideA": "Name 3 things you'd change about yourself",
+    "sideB": "Name 3 things you'd never change",
+    "category": "would_you_rather",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "would_you_rather"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-001",
+    "sideA": "Name 3 things you've googled in private",
+    "sideB": "Name 3 awkward first-date topics",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-002",
+    "sideA": "Name 3 texts you regret sending",
+    "sideB": "Name 3 things you've said to the wrong person",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-003",
+    "sideA": "Name 3 times you've tripped in public",
+    "sideB": "Name 3 times you've laughed at the wrong moment",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-004",
+    "sideA": "Name 3 things in your search history",
+    "sideB": "Name 3 things in your camera roll",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-005",
+    "sideA": "Name 3 nicknames you hate",
+    "sideB": "Name 3 things you've pretended to like",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-006",
+    "sideA": "Name 3 autocorrect fails",
+    "sideB": "Name 3 voice message regrets",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 1,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-007",
+    "sideA": "Name 3 things you've done while drunk",
+    "sideB": "Name 3 things you've blamed on someone else",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-008",
+    "sideA": "Name 3 embarrassing childhood memories",
+    "sideB": "Name 3 embarrassing parent moments",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-009",
+    "sideA": "Name 3 things you've walked into",
+    "sideB": "Name 3 things you've spilled on yourself",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 4,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "embarrassing-010",
+    "sideA": "Name 3 things you've lied about on social media",
+    "sideB": "Name 3 things you've deleted",
+    "category": "embarrassing",
+    "rating": "teen",
+    "difficulty": 5,
+    "tags": [
+      "embarrassing"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-46",
+    "sideA": "Name 3 bands starting with A",
+    "sideB": "Name 3 songs starting with A",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-47",
+    "sideA": "Name 3 bands starting with B",
+    "sideB": "Name 3 songs starting with B",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-48",
+    "sideA": "Name 3 bands starting with C",
+    "sideB": "Name 3 songs starting with C",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-49",
+    "sideA": "Name 3 bands starting with D",
+    "sideB": "Name 3 songs starting with D",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-50",
+    "sideA": "Name 3 bands starting with E",
+    "sideB": "Name 3 songs starting with E",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-51",
+    "sideA": "Name 3 bands starting with F",
+    "sideB": "Name 3 songs starting with F",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-52",
+    "sideA": "Name 3 bands starting with G",
+    "sideB": "Name 3 songs starting with G",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-53",
+    "sideA": "Name 3 bands starting with H",
+    "sideB": "Name 3 songs starting with H",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-54",
+    "sideA": "Name 3 bands starting with J",
+    "sideB": "Name 3 songs starting with J",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-55",
+    "sideA": "Name 3 bands starting with K",
+    "sideB": "Name 3 songs starting with K",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-56",
+    "sideA": "Name 3 bands starting with L",
+    "sideB": "Name 3 songs starting with L",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-57",
+    "sideA": "Name 3 bands starting with M",
+    "sideB": "Name 3 songs starting with M",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-58",
+    "sideA": "Name 3 bands starting with N",
+    "sideB": "Name 3 songs starting with N",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-59",
+    "sideA": "Name 3 bands starting with P",
+    "sideB": "Name 3 songs starting with P",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-60",
+    "sideA": "Name 3 bands starting with Q",
+    "sideB": "Name 3 songs starting with Q",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-61",
+    "sideA": "Name 3 bands starting with R",
+    "sideB": "Name 3 songs starting with R",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-62",
+    "sideA": "Name 3 bands starting with S",
+    "sideB": "Name 3 songs starting with S",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-63",
+    "sideA": "Name 3 bands starting with T",
+    "sideB": "Name 3 songs starting with T",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-64",
+    "sideA": "Name 3 bands starting with V",
+    "sideB": "Name 3 songs starting with V",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-65",
+    "sideA": "Name 3 bands starting with W",
+    "sideB": "Name 3 songs starting with W",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-66",
+    "sideA": "Name 3 bands starting with X",
+    "sideB": "Name 3 songs starting with X",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-67",
+    "sideA": "Name 3 bands starting with Y",
+    "sideB": "Name 3 songs starting with Y",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-var-68",
+    "sideA": "Name 3 bands starting with Z",
+    "sideB": "Name 3 songs starting with Z",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 2,
+    "tags": [
+      "music",
+      "letter-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-440",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-441",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-442",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-443",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-444",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-445",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-446",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-447",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-448",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-449",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-450",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-451",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-452",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-453",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-454",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-455",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-456",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-457",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-458",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-459",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-460",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-461",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-462",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-463",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-464",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-465",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-466",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-467",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-468",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-469",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-470",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-471",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-472",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-473",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-474",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-475",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-476",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-477",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-478",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-479",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-480",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-481",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-482",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-483",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-484",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-485",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-486",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-487",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-488",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-489",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-490",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-491",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-492",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-493",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-494",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-495",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-496",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-497",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-498",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-499",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-500",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-501",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-502",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-503",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-504",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-505",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-506",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-507",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-508",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-509",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-510",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-511",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-512",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-513",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-514",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-515",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-516",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-517",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-518",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-519",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-520",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-521",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-522",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-523",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-524",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-525",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-526",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-527",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-528",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-529",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-530",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-531",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-532",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-533",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-534",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-535",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-536",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-537",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-538",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-539",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-540",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-541",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-542",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-543",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-544",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-545",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-546",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-547",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-548",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-549",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-550",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-551",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-552",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-553",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-554",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-555",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-556",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-557",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-558",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "movies_tv-num-559",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "movies_tv",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "movies_tv",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-560",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-561",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-562",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-563",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-564",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-565",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-566",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-567",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-568",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-569",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-570",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-571",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-572",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-573",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-574",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-575",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-576",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-577",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-578",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-579",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-580",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-581",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-582",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-583",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-584",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-585",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-586",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-587",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-588",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-589",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-590",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-591",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-592",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-593",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-594",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-595",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-596",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-597",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-598",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-599",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-600",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-601",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-602",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-603",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-604",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-605",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-606",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-607",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-608",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-609",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-610",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-611",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-612",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-613",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-614",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-615",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-616",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-617",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-618",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-619",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-620",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-621",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-622",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-623",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-624",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-625",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-626",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-627",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-628",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-629",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-630",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-631",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-632",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-633",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-634",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-635",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-636",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-637",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-638",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-639",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-640",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-641",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-642",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-643",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-644",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-645",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-646",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-647",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-648",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-649",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-650",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-651",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-652",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-653",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-654",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-655",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-656",
+    "sideA": "Name 3 items on a $2 shopping list",
+    "sideB": "Name 3 gifts under $2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-657",
+    "sideA": "Name 3 things you need 4 of",
+    "sideB": "Name 3 things that come in packs of 4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-658",
+    "sideA": "Name 3 reasons to wake up at 5 AM",
+    "sideB": "Name 3 things that take 5 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-659",
+    "sideA": "Name 3 items on a $6 shopping list",
+    "sideB": "Name 3 gifts under $6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-660",
+    "sideA": "Name 3 things you need 7 of",
+    "sideB": "Name 3 things that come in packs of 7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-661",
+    "sideA": "Name 3 reasons to wake up at 8 AM",
+    "sideB": "Name 3 things that take 8 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-662",
+    "sideA": "Name 3 items on a $9 shopping list",
+    "sideB": "Name 3 gifts under $9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-663",
+    "sideA": "Name 3 things you need 10 of",
+    "sideB": "Name 3 things that come in packs of 10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-664",
+    "sideA": "Name 3 reasons to wake up at 2 AM",
+    "sideB": "Name 3 things that take 2 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-665",
+    "sideA": "Name 3 items on a $4 shopping list",
+    "sideB": "Name 3 gifts under $4",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-666",
+    "sideA": "Name 3 things you need 5 of",
+    "sideB": "Name 3 things that come in packs of 5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-667",
+    "sideA": "Name 3 reasons to wake up at 6 AM",
+    "sideB": "Name 3 things that take 6 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-668",
+    "sideA": "Name 3 items on a $7 shopping list",
+    "sideB": "Name 3 gifts under $7",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-669",
+    "sideA": "Name 3 things you need 8 of",
+    "sideB": "Name 3 things that come in packs of 8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-670",
+    "sideA": "Name 3 reasons to wake up at 9 AM",
+    "sideB": "Name 3 things that take 9 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-671",
+    "sideA": "Name 3 items on a $10 shopping list",
+    "sideB": "Name 3 gifts under $10",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-672",
+    "sideA": "Name 3 things you need 2 of",
+    "sideB": "Name 3 things that come in packs of 2",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-673",
+    "sideA": "Name 3 reasons to wake up at 4 AM",
+    "sideB": "Name 3 things that take 4 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-674",
+    "sideA": "Name 3 items on a $5 shopping list",
+    "sideB": "Name 3 gifts under $5",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-675",
+    "sideA": "Name 3 things you need 6 of",
+    "sideB": "Name 3 things that come in packs of 6",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-676",
+    "sideA": "Name 3 reasons to wake up at 7 AM",
+    "sideB": "Name 3 things that take 7 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-677",
+    "sideA": "Name 3 items on a $8 shopping list",
+    "sideB": "Name 3 gifts under $8",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-678",
+    "sideA": "Name 3 things you need 9 of",
+    "sideB": "Name 3 things that come in packs of 9",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "music-num-679",
+    "sideA": "Name 3 reasons to wake up at 10 AM",
+    "sideB": "Name 3 things that take 10 minutes",
+    "category": "music",
+    "rating": "teen",
+    "difficulty": 3,
+    "tags": [
+      "music",
+      "numeric-variant"
+    ],
+    "enabled": true
+  }
+]
